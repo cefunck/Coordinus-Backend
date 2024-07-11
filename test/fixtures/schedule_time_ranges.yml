@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_time_hour: 1
+  start_time_minute: 1
+  end_time_hour: 1
+  end_time_minute: 1
+  schedule_day: one
+
+two:
+  start_time_hour: 1
+  start_time_minute: 1
+  end_time_hour: 1
+  end_time_minute: 1
+  schedule_day: two
